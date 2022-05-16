@@ -1,0 +1,26 @@
+body{
+    color:#38908F;
+    background-color:#97F2F3;
+
+}
+.heading{
+    width:80%;
+    font-size:22px;
+
+}
+.name_of_objects{
+    color: gold;
+}
+#camera{
+    border: 2px dashed maroon;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#reslut_object_accuracy{
+    color: yellow;
+}
+#result{
+    border: 2px dashed maroon;
+    width: 350px;
+    height: 300px;
+}
